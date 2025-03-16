@@ -1,0 +1,9 @@
+.category-item{
+    display: flex;
+    justify-content: space-between;
+    color: whitesmoke;
+}
+.category-item.selected{
+    background-color: #872341;
+    color: wheat;
+}

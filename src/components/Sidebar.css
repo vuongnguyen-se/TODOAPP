@@ -1,0 +1,31 @@
+.sidebar{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 30vw;
+    background-color: #3B6790;
+    color: #EFB036;
+    box-shadow: 5px 5px 20px black;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.sb-footer{
+    width: 100%;
+    padding: 10px;
+    border-top: 2px solid darkgrey;
+}
+.sb-footer button{
+    padding: 2px 5px;
+    border: 3px solid #EFB036 ;
+    margin: 5px;
+    border-radius: 3px;
+}
+.sb-form-field{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
