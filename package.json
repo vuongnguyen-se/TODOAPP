@@ -1,6 +1,6 @@
 {
   "name": "todoapp",
-  "homepage": "https://vuongnguyen-se.github.io/TODOAPP/",
+  "homepage": "git@github.com:vuongnguyen-se/todo_App.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
